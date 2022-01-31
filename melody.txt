@@ -1,0 +1,128 @@
+
+	Daimy Commute - Found Sound Project Verse 2 & 3 Melody Synth Settings:
+
+	Verse 2
+
+44100
+120
+1 255 triangle C#4 n 255 triangle E4 n 127 triangle A4 n
+1 255 triangle C#4 y 255 triangle E4 y 127 triangle B4 n
+1 255 triangle A3 n 255 triangle C#4 n 255 triangle E4 n 127 triangle C#5 n
+1 255 triangle A3 y 255 triangle C#4 y 255 triangle E4 y 127 triangle E5 n
+1 255 triangle C#4 n 255 triangle E4 n 127 triangle A4 n
+1 255 triangle C#4 y 255 triangle E4 y 127 triangle G#4 n
+1 255 triangle D4 n 127 triangle F#4 n
+1 255 triangle D4 y 127 triangle G#4 y
+1 95 saw C#4 n 95 saw E4 n 47 saw A4 n
+1 95 saw C#4 y 95 saw E4 y 47 saw B4 n
+1 95 saw A3 n 95 saw C#4 n 95 saw E4 n 47 saw C#5 n
+1 95 saw A3 y 95 saw C#4 y 95 saw E4 y 47 saw E5 n
+1 95 saw C#4 n 95 saw E4 n 47 saw A4 n
+1 95 saw C#4 y 95 saw E4 y 47 saw G#4 n
+1 95 saw D4 n 47 saw F#4 n
+1 95 saw D4 y 47 saw G#4 y
+1 255 triangle C#4 n 255 triangle E4 n 127 triangle A4 n
+1 255 triangle C#4 y 255 triangle E4 y 127 triangle B4 n
+1 255 triangle A3 n 255 triangle C#4 n 255 triangle E4 n 127 triangle C#5 n
+1 255 triangle A3 y 255 triangle C#4 y 255 triangle E4 y 127 triangle E5 n
+1 255 triangle B3 n 255 triangle D4 n 255 triangle F#4 n 127 triangle F#5 n
+1 255 triangle B3 y 255 triangle D4 y 255 triangle F#4 y 127 triangle E5 n
+1 255 triangle A3 n 255 triangle D4 n 255 triangle F#4 n 127 triangle D5 n
+1 255 triangle A3 y 255 triangle D4 y 255 triangle F#4 y 127 triangle C#5 y
+1 95 saw C#4 n 95 saw E4 n 47 saw A4 n
+1 95 saw C#4 y 95 saw E4 y 47 saw B4 n
+1 95 saw A3 n 95 saw C#4 n 95 saw E4 n 47 saw C#5 n
+1 95 saw A3 y 95 saw C#4 y 95 saw E4 y 47 saw E5 n
+1 95 saw B3 n 95 saw D4 n 95 saw F#4 n 47 saw F#5 n
+1 95 saw B3 y 95 saw D4 y 95 saw F#4 y 47 saw E5 n
+1 95 saw A3 n 95 saw D4 n 95 saw F#4 n 47 saw D5 n
+1 95 saw A3 y 95 saw D4 y 95 saw F#4 y 47 saw C#5 y
+1 255 triangle G#3 n 255 triangle B3 n 255 triangle E4 n 127 triangle B4 n
+1 255 triangle G#3 n 255 triangle B3 n 255 triangle E4 n 127 triangle A4 n
+1 255 triangle G#3 n 255 triangle B3 n 255 triangle E4 n 127 triangle G#4 n
+1 255 triangle G#3 y 255 triangle B3 y 255 triangle E4 y 127 triangle F#4 n
+1 255 triangle A3 n 255 triangle C#4 n 127 triangle E4 n
+1 255 triangle A3 n 255 triangle C#4 n 127 triangle D#4 n
+1 255 triangle A3 n 255 triangle C#4 n 127 triangle E4 n
+1 255 triangle A3 y 255 triangle C#4 y 127 triangle F#4 y
+1 95 saw G#3 n 95 saw B3 n 95 saw E4 n 47 saw B4 n
+1 95 saw G#3 n 95 saw B3 n 95 saw E4 n 47 saw A4 n
+1 95 saw G#3 n 95 saw B3 n 95 saw E4 n 47 saw G#4 n
+1 95 saw G#3 y 95 saw B3 y 95 saw E4 y 47 saw F#4 n
+1 95 saw A3 n 95 saw C#4 n 47 saw E4 n
+1 95 saw A3 n 95 saw C#4 n 47 saw D#4 n
+1 95 saw A3 n 95 saw C#4 n 47 saw E4 n
+1 95 saw A3 y 95 saw C#4 y 47 saw F#4 y
+1 127 triangle G#3 n 255 triangle B3 n 255 triangle E4 n 127 triangle G#4 n
+1 127 triangle G#3 n 255 triangle B3 n 255 triangle E4 n 127 triangle F#4 n
+1 127 triangle G#3 n 255 triangle B3 n 255 triangle E4 n 127 triangle G#4 n
+1 127 triangle G#3 y 255 triangle B3 y 255 triangle E4 y 127 triangle A4 n
+4 255 triangle A3 y 255 triangle C#4 y 255 triangle E4 y 127 triangle A4 y
+1 95 saw G#3 n 95 saw B3 n 95 saw E4 n 47 saw G#4 n
+1 95 saw G#3 n 95 saw B3 n 95 saw E4 n 47 saw F#4 n
+1 95 saw G#3 n 95 saw B3 n 95 saw E4 n 47 saw G#4 n
+1 95 saw G#3 y 95 saw B3 y 95 saw E4 y 47 saw A4 n
+4 255 saw A3 y 95 saw C#4 y 95 saw E4 y 47 saw A4 y
+
+	Verse 3:
+
+44100
+120
+1 255 triangle B3 n 255 triangle E4 n 255 triangle G#4 n 127 triangle E5 n
+1 255 triangle B3 y 255 triangle E4 y 255 triangle G#4 y 127 triangle C#5 n
+1 255 triangle A3 n 255 triangle C#4 n 255 triangle E4 n 127 triangle B4 n
+1 255 triangle A3 y 255 triangle C#4 y 255 triangle E4 y 127 triangle A4 n
+1 255 triangle B3 n 255 triangle D#4 n 255 triangle F#4 n 127 triangle D#5 n
+1 255 triangle B3 y 255 triangle D#4 y 255 triangle F#4 y 127 triangle B4 n
+1 255 triangle G#3 n 255 triangle B3 n 255 triangle E4 n 127 triangle A4 n
+1 255 triangle G#3 y 255 triangle B3 y 255 triangle E4 y 127 triangle G#4 y
+1 95 saw B3 n 95 saw E4 n 95 saw G#4 n 47 saw E5 n
+1 95 saw B3 y 95 saw E4 y 95 saw G#4 y 47 saw C#5 n
+1 95 saw A3 n 95 saw C#4 n 95 saw E4 n 47 saw B4 n
+1 95 saw A3 y 95 saw C#4 y 95 saw E4 y 47 saw A4 n
+1 95 saw B3 n 95 saw D#4 n 95 saw F#4 n 47 saw D#5 n
+1 95 saw B3 y 95 saw D#4 y 95 saw F#4 y 47 saw B4 n
+1 95 saw G#3 n 95 saw B3 n 95 saw E4 n 47 saw A4 n
+1 95 saw G#3 y 95 saw B3 y 95 saw E4 y 47 saw G#4 y
+1 255 triangle B3 n 255 triangle E4 n 255 triangle G#4 n 127 triangle E5 n
+1 255 triangle B3 n 255 triangle E4 n 255 triangle G#4 n 127 triangle C#5 n
+1 255 triangle B3 n 255 triangle E4 n 255 triangle G#4 n 127 triangle B4 n
+1 255 triangle B3 y 255 triangle E4 y 255 triangle G#4 y 127 triangle E5 n
+1 255 triangle A3 n 255 triangle C#4 n 255 triangle F#4 n 127 triangle F#5 n
+1 255 triangle A3 n 255 triangle C#4 n 255 triangle F#4 n 127 triangle C#5 n
+1 255 triangle A3 n 255 triangle C#4 n 255 triangle F#4 n 127 triangle A4 n
+1 255 triangle A3 y 255 triangle C#4 y 255 triangle F#4 y 127 triangle F#5 y
+1 95 saw B3 n 95 saw E4 n 95 saw G#4 n 47 saw E5 n
+1 95 saw B3 n 95 saw E4 n 95 saw G#4 n 47 saw C#5 n
+1 95 saw B3 n 95 saw E4 n 95 saw G#4 n 47 saw B4 n
+1 95 saw B3 y 95 saw E4 y 95 saw G#4 y 47 saw E5 n
+1 95 saw A3 n 95 saw C#4 n 95 saw F#4 n 47 saw F#5 n
+1 95 saw A3 n 95 saw C#4 n 95 saw F#4 n 47 saw C#5 n
+1 95 saw A3 n 95 saw C#4 n 95 saw F#4 n 47 saw A4 n
+1 95 saw A3 y 95 saw C#4 y 95 saw F#4 y 47 saw F#5 y
+1 255 triangle B3 n 255 triangle D#4 n 255 triangle F#4 n 127 triangle F#5 n
+1 255 triangle B3 n 255 triangle D#4 n 255 triangle F#4 n 127 triangle D#5 n
+1 255 triangle B3 n 255 triangle D#4 n 255 triangle F#4 n 127 triangle B4 n
+1 255 triangle B3 y 255 triangle D#4 y 255 triangle F#4 y 127 triangle F#5 n
+1 255 triangle B3 n 255 triangle E4 n 255 triangle G#4 n 127 triangle G#5 n
+1 255 triangle B3 n 255 triangle E4 n 255 triangle G#4 n 127 triangle E5 n
+1 255 triangle B3 n 255 triangle E4 n 255 triangle G#4 n 127 triangle B4 n
+1 255 triangle B3 y 255 triangle E4 y 255 triangle G#4 y 127 triangle G#5 y
+1 95 saw B3 n 95 saw D#4 n 95 saw F#4 n 47 saw F#5 n
+1 95 saw B3 n 95 saw D#4 n 95 saw F#4 n 47 saw D#5 n
+1 95 saw B3 n 95 saw D#4 n 95 saw F#4 n 47 saw B4 n
+1 95 saw B3 y 95 saw D#4 y 95 saw F#4 y 47 saw F#5 n
+1 95 saw B3 n 95 saw E4 n 95 saw G#4 n 47 saw G#5 n
+1 95 saw B3 n 95 saw E4 n 95 saw G#4 n 47 saw E5 n
+1 95 saw B3 n 95 saw E4 n 95 saw G#4 n 47 saw B4 n
+1 95 saw B3 y 95 saw E4 y 95 saw G#4 y 47 saw G#5 y
+1 255 triangle A3 n 255 triangle C#4 n 255 triangle F#4 n 127 triangle F#5 n
+1 255 triangle A3 y 255 triangle C#4 y 255 triangle F#4 y 127 triangle C#5 n
+1 255 triangle B3 n 255 triangle D#4 n 255 triangle F#4 n 127 triangle B4 n
+1 255 triangle B3 y 255 triangle D#4 y 255 triangle F#4 y 127 triangle D#5 n
+4 255 triangle B3 y 255 triangle E4 y 255 triangle G#4 y 127 triangle E5 y
+1 95 saw A3 n 95 saw C#4 n 95 saw F#4 n 47 saw F#5 n
+1 95 saw A3 y 95 saw C#4 y 95 saw F#4 y 47 saw C#5 n
+1 95 saw B3 n 95 saw D#4 n 95 saw F#4 n 47 saw B4 n
+1 95 saw B3 y 95 saw D#4 y 95 saw F#4 y 47 saw D#5 n
+4 95 saw B3 y 95 saw E4 y 95 saw G#4 y 47 saw E5 y
