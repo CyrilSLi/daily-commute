@@ -1,6 +1,6 @@
 	Chimes
 
-	Station Bell:
+	Station Bell
 
 44100
 120
