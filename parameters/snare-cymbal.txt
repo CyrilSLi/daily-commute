@@ -1,0 +1,42 @@
+	Snare / Cymbal
+
+  Snare Beat 1
+
+44100
+120
+1.5 down 255 20 1
+0.5 down 255 20 1
+1 down 255 20 1
+2
+2
+1
+2
+3
+1 down 255 4 21
+
+	Cymbal L 200
+
+44100
+60
+4 down 255 200 1
+
+	Snare Beat 2
+
+44100
+120
+0.5 down 255 20 1
+1 down 255 20 1
+1
+2
+2
+1
+2
+1
+2
+1 down 255 4 21
+
+	Cymbal L 400
+
+44100
+60
+4 down 255 400 1
