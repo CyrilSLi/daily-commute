@@ -1,6 +1,6 @@
 	Snare / Cymbal
 
-  Snare Beat 1
+	Snare Beat 1
 
 44100
 120
