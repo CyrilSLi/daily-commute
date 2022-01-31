@@ -1,0 +1,51 @@
+	Chimes
+
+	Station Bell:
+
+44100
+120
+1 255 triangle Ab4 n
+1 255 triangle Ab4 n 255 triangle C5 n
+1 255 triangle Ab4 n 255 triangle C5 n 255 triangle Eb5 n
+5 255 triangle Ab4 n 255 triangle C5 n 255 triangle Eb5 n 255 triangle Ab5 n
+
+	Door Sound 1
+
+44100
+180
+0.5 255 triangle Ab5 n
+0.5 255 triangle Eb5 n
+2 0 triangle A4 n
+1 255 triangle Ab5 n
+1 255 triangle Eb5 n
+1 0 triangle A4 n
+4
+5
+6
+4
+5
+6
+4
+5
+6
+1
+2
+3
+
+	Door Sound 2
+
+44100
+360
+1 255 square C#5 y
+1
+1
+1
+1
+1
+
+	Door Sound 3
+
+44100
+120
+1 255 triangle F#5 n 255 triangle F#6 n 255 triangle F#7 n
+1 0 triangle A4 n
